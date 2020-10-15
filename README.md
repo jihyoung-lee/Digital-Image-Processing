@@ -1,2 +1,2 @@
-# Histogram-Equalization-
+# Histogram-Equalization
 With Matlab

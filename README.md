@@ -1,5 +1,5 @@
 # Histogram-Equalization
-With Matlab
+*the original and the result
 
 ![23](https://user-images.githubusercontent.com/67559886/96083006-4c9cfd80-0ef7-11eb-86d0-af36f503ccc8.PNG)
 

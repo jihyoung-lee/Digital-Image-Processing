@@ -1,4 +1,8 @@
 # Histogram-Equalization
+<p>
+<img src='https://img.shields.io/github/languages/top/jihyoung-lee/Digital-Image-Processing'> <img src='https://img.shields.io/github/languages/code-size/jihyoung-lee/Digital-Image-Processing'>
+ <img src='https://img.shields.io/github/repo-size/jihyoung-lee/Digital-Image-Processing'>
+ </p>
 *the original and the result
 
 ![23](https://user-images.githubusercontent.com/67559886/96083006-4c9cfd80-0ef7-11eb-86d0-af36f503ccc8.PNG)
